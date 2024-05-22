@@ -9,7 +9,7 @@ I'm a passionate frontend developer specializing in Angular and committed to cre
 - Performance optimization in web applications.
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=your_username&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rishikarishika&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 💼 Skills
 - **Languages**: TypeScript, JavaScript, HTML, CSS, SCSS, SQL, C, C++, OPPS
